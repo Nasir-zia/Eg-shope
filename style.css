@@ -1,0 +1,85 @@
+
+.bac{
+    background-image: url(Ass/portrait-girl-with-bag-with-fruit-isolated-pink-wall.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}
+
+
+
+.bac2{
+    background-image: url(Ass/portrait-girl-with-bag-with-fruit-isolated-pink-wall.jpg);
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    height: 70vh;
+}
+/* hover */
+a {
+    box-shadow: inset 0 0 0 0 #54b3d6;
+    color: black;
+    margin: 0 -.25rem;
+    padding: 0 .25rem;
+    transition: color .3s ease-in-out, box-shadow .3s ease-in-out;
+  }
+  a:hover {
+    box-shadow: inset 120px 0 0 0 #54b3d6;
+    color: white;
+  
+  }
+
+  .cardh :hover{
+          
+
+  }
+
+.bac3{
+  background-image: url(Ass/portrait-girl-with-bag-with-fruit-isolated-pink-wall.jpg);
+  background-position: top;
+  background-repeat: no-repeat;
+  background-size: cover;
+  height: 70vh;
+}
+.about{
+  margin-left: 40%;
+  margin-top: 25%;
+}
+.bac4{
+  background-image: url(Ass/portrait-girl-with-bag-with-fruit-isolated-pink-wall.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 70vh;
+  
+  
+}
+.about2{
+  margin-left: 45%;
+  color: aliceblue;
+  margin-top: 20%;
+}
+.about1{
+  margin-left: 46%;
+  color: aliceblue;
+}
+.about3{
+  border: 20px solid white;
+  
+  
+}
+.bac5{
+  background-image: url(Ass/portrait-girl-with-bag-with-fruit-isolated-pink-wall.jpg);
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-position: top;
+  height: 50vh;
+}
+.bac6{
+  width: 10%;
+  margin-left: 45%;
+  margin-top: 13%;
+}
+
+
