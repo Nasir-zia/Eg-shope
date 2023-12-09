@@ -17,7 +17,7 @@
     height: 70vh;
 }
 /* hover */
-a {
+/* a {
     box-shadow: inset 0 0 0 0 #54b3d6;
     color: black;
     margin: 0 -.25rem;
@@ -28,12 +28,8 @@ a {
     box-shadow: inset 120px 0 0 0 #54b3d6;
     color: white;
   
-  }
+  } */
 
-  .cardh :hover{
-          
-
-  }
 
 .bac3{
   background-image: url(Ass/portrait-girl-with-bag-with-fruit-isolated-pink-wall.jpg);
@@ -42,10 +38,7 @@ a {
   background-size: cover;
   height: 70vh;
 }
-.about{
-  margin-left: 40%;
-  margin-top: 25%;
-}
+
 .bac4{
   background-image: url(Ass/portrait-girl-with-bag-with-fruit-isolated-pink-wall.jpg);
   background-size: cover;
